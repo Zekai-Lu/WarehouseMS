@@ -1,0 +1,5 @@
+build/
+data/inventory.csv
+*.tmp
+*.exe
+*.o
